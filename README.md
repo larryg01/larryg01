@@ -1,8 +1,8 @@
-### Hi 👋 I am LarryG your friendly Test Automation Architect 
+### Hi 👋 I am LarryG your friendly Test Automation Architect, Creator of klassi-js
 
 ## Support or Contact
 ```bash
-📫 Email: larryg @ klassitech.co.uk
+📫 Email: larryg@klassitech.co.uk
 🐦 Twitter : @LarryG_01
 🗣 Technical talks : list coming soon
 ```
