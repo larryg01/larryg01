@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LarryG</h1>
+<h1 align="center">Hi 👋, I'm LarryG - Creator of klassi-js</h1>
 <h3 align="center">A dedicated Test Automation Architect and Node Developer</h3>
 <h3 align="center">I have moved all my Repos to their own home here - <a href="http://github.com/klassijs" target="_blank"> klassiJS</a></h3>
 
